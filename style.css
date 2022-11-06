@@ -63,6 +63,7 @@ header {
   border-bottom: 2px solid var(--card-color-primary);
   border-radius: 6px;
   animation: appear 0.8s forwards;
+  opacity: 0;
 }
 
 .card h2 {
